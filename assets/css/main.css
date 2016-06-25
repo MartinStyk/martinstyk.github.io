@@ -3022,7 +3022,24 @@
 				font-size: 0.9em;
 			}
 
-/* Poptrox */
+/* Skills */
+	#work div div {
+		 	position:relative;
+	}
+	#work div div h3 {
+		width:inherit;
+		position:absolute;
+		top:0;
+		  position: absolute;               
+   top: 50%;     
+   text-align: center;	
+   color:rgba(185, 186, 187, 0.5);
+   font-size:200%
+                  
+
+	}
+
+/* Poptrox */ø
 
 	.poptrox-popup {
 		-moz-box-sizing: content-box;
