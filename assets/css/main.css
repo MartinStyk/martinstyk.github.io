@@ -2381,10 +2381,10 @@
 		color: #fff;
 	}
 
-		.dark a {
+/*		.dark a {
 			color: #fff;
 		}
-
+*/
 		.dark .button.style2 {
 			border-color: inherit;
 			background-color: rgba(64, 64, 64, 0.05);
